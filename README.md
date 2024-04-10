@@ -6,3 +6,6 @@ WATCH DEALER SHOP
         3. .env
         4.php artisan migrate
         5.php artisan serve
+
+login admin: sunly.chao@student.cadt.edu.kh
+password: 123456789
