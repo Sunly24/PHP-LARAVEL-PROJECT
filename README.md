@@ -8,5 +8,6 @@ WATCH DEALER SHOP
         5.php artisan serve
 
 
-login admin: sunly.chao@student.cadt.edu.kh\n
+login admin: sunly.chao@student.cadt.edu.kh   
+
 password: 123456789
